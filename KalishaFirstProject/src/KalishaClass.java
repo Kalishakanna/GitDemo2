@@ -26,6 +26,8 @@ public class KalishaClass {
 	driver.get("https://www.tui.co.uk/");
     System.out.println(driver.getTitle());
     System.out.println(driver.getCurrentUrl());
+    
+    System.out.println("KAlisha GIT training");
 	}
 
 }
